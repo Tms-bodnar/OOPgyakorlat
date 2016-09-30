@@ -7,7 +7,7 @@ package oopgyakorlas;
 
 /**
  *
- * @author user
+ * @author bodnart
  */
 public class SikHaromszog {
     double[] vizszint;
